@@ -1,5 +1,7 @@
 x =3
 y=5
-print(x+y)
+z= x+2y
+
+print(z)
 
 print("message python project")
