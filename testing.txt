@@ -1,2 +1,6 @@
 Hi this is my git traing session
+
+git will help me to controle my projects better
+
+
 thank you :)
